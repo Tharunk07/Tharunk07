@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Tharun K</h1>
 <h3 align="center">A passionate machine learning developer from India</h3>
 
+![github_gif](https://user-images.githubusercontent.com/97456744/172036146-50bda393-d54b-4067-9fa4-1fb70fbea364.gif)
 
 <p align="left"> <img src="" alt="tharunk07" /> </p>
 
