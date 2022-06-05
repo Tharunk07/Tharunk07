@@ -4,7 +4,7 @@
 <h3 align="center">A passionate machine learning developer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharunk07&label=Profile%20views&color=0e75b6&style=flat" alt="tharunk07" /> </p>
+<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fkautukkundan%2FAwesome-Profile-README-templates%2Fblob%2Fmaster%2FdevSouvik.md&psig=AOvVaw2lpoumXp88kz8hR0gn90cY&ust=1654492352257000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJCvkZullPgCFQAAAAAdAAAAABAD" alt="tharunk07" /> </p>
 
 <p align="left"> <a href="https://twitter.com/heart_trickler" target="blank"><img src="https://img.shields.io/twitter/follow/heart_trickler?logo=twitter&style=for-the-badge" alt="heart_trickler" /></a> </p>
 
