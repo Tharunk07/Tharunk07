@@ -6,7 +6,7 @@
 ![github_gif](https://user-images.githubusercontent.com/97456744/172036146-50bda393-d54b-4067-9fa4-1fb70fbea364.gif)
 ![](https://Tharunk07.com/ghpvc/?username=Tharunk07&color=green)
 
-<p align="left"> <a href="https://twitter.com/heart_trickler" target="blank"><img src="https://img.shields.io/twitter/follow/heart_trickler?logo=twitter&style=for-the-badge" alt="heart_trickler" /></a> </p>
+
 
 - 🔭 I’m currently studying in **KPR Institute of Engineering and Technology**
 
