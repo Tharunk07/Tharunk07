@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Deep learning and Machine learning**
 
-- 👨‍💻 All of my projects are available at [https://tharunk07.github.io/tharunportfolio/](https://tharunk07.github.io/tharunportfolio/)
+- 👨‍💻 All of my projects are available at [https://tharunk07.github.io/My-Portfolio/](https://tharunk07.github.io/My-Portfolio/)
 
 - 💬 Ask me about **Machine learning**
 
