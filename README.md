@@ -9,7 +9,7 @@
 <br/>
 
 <a href="mailto:tharunkkumarasamy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/tharun-k"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/tharun-genai/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://tharunk07.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://github.com/Tharunk07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
@@ -127,10 +127,10 @@ Currently building out additional agentic AI and voice pipeline experiments — 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tharunk07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tharun's GitHub stats" height="165"/>
+<img src="https://github-readme-stats-rickstaa.vercel.app/api?username=Tharunk07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tharun's GitHub stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharunk07&theme=tokyonight&hide_border=true" alt="Tharun's GitHub streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunk07&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+<img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=Tharunk07&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
 
 </div>
 
